@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="ET_leftFirst">Name</string>
+    <string name="amount">Quantity</string>
+    <string name="custom_tip_percentage" />
+    <string name="total" />
+    <string name="tip" />
+    <string name="eighteen_percent" />
+    <string name="fifteen_percent" />
+</resources>
